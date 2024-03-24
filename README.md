@@ -60,9 +60,7 @@ alt="microsoftsqlserver logo"  />
 - Arabic
 - English
 
-<p align="right">
-  | [Show Resume](https://docs.google.com/document/d/1bUsSnYTt31sqZ2ClUb6h7SzYar3AQAghha0a9U6OwfE/edit?usp=sharing)|
-</p>
+| [Show Resume](https://docs.google.com/document/d/1bUsSnYTt31sqZ2ClUb6h7SzYar3AQAghha0a9U6OwfE/edit?usp=sharing)|
 
 
   
