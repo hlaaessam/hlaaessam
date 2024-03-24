@@ -9,7 +9,7 @@
 Computer Science graduate , eager to embark on a challenging journey as a Software Engineer. Equipped with practical experience and a strong foundation in software development, I am poised to contribute to innovative projects that fuse cutting-edge technology, with a commitment to continuous learning.<br>
 <br>
 
--  I’m currently working on web development technologies like JavaScript etc.
+-  I’m currently working on web development technologies like JavaScript , React etc.
 -  I’m currently learning everything about Frontend and Backend technologies 
 -  Future Goals: Learn more technologies - Never stop creating new ideas.
 
