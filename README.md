@@ -4,15 +4,6 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amira921&layout=compact&theme=" alt=amira921 />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=amira921&theme=" alt="amira921" />
-</div>
-
-<div align="center">
-  <img  src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amira921&theme=2077" height="180em" />
-  <img  src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amira921&theme=2077" height="180em" />
-</div>
 
 <h2> About me </h2>
 Computer Science graduate , eager to embark on a challenging journey as a Software Engineer. Equipped with practical experience and a strong foundation in software development, I am poised to contribute to innovative projects that fuse cutting-edge technology, with a commitment to continuous learning.<br>
