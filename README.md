@@ -50,7 +50,7 @@ Android Studio Code
 - Arabic
 - English
 
-                                                  | [Show Resume](https://docs.google.com/document/d/1bUsSnYTt31sqZ2ClUb6h7SzYar3AQAghha0a9U6OwfE/edit?usp=sharing)|
+| [Show Resume](https://docs.google.com/document/d/1bUsSnYTt31sqZ2ClUb6h7SzYar3AQAghha0a9U6OwfE/edit?usp=sharing)|
 
   
 
