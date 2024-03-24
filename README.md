@@ -60,8 +60,8 @@ alt="microsoftsqlserver logo"  />
 - Arabic
 - English
   
-[![Show Resume](https://img.shields.io/badge/-Show-Resume-c14438?style=flat-square&logo=CV&logoColor=white&link=https://docs.google.com/document/d/1bUsSnYTt31sqZ2ClUb6h7SzYar3AQAghha0a9U6OwfE/edit?usp=sharing)](https://docs.google.com/document/d/1bUsSnYTt31sqZ2ClUb6h7SzYar3AQAghha0a9U6OwfE/edit?usp=sharing)
 
+| [Show Resume](https://docs.google.com/document/d/1bUsSnYTt31sqZ2ClUb6h7SzYar3AQAghha0a9U6OwfE/edit?usp=sharing) |
 
   
 
