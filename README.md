@@ -61,7 +61,7 @@ alt="microsoftsqlserver logo"  />
 - English
   
 <div align="right">
-[!Show Resume](https://docs.google.com/document/d/1bUsSnYTt31sqZ2ClUb6h7SzYar3AQAghha0a9U6OwfE/edit?usp=sharing)
+[![Show Resume]](https://docs.google.com/document/d/1bUsSnYTt31sqZ2ClUb6h7SzYar3AQAghha0a9U6OwfE/edit?usp=sharing)
 </div>
 
   
