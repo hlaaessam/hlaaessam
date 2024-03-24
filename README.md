@@ -11,7 +11,7 @@ Computer Science graduate , eager to embark on a challenging journey as a Softwa
 -  Future Goals: Learn more technologies - Never stop creating new ideas.
 
 </br>
-<p align="center">
+<p>
 
   <i>Let's connect.</i>
 
@@ -63,6 +63,7 @@ alt="microsoftsqlserver logo"  />
 - Arabic
 - English
 
+<p align="right"></p>
 | [Show Resume](https://docs.google.com/document/d/1bUsSnYTt31sqZ2ClUb6h7SzYar3AQAghha0a9U6OwfE/edit?usp=sharing)|
 
   
