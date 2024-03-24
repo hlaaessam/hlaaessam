@@ -41,8 +41,9 @@ Computer Science graduate , eager to embark on a challenging journey as a Softwa
 <br/>
 
 ##### Some of my favorite open source projects
-[![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
-Android Studio Code
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original-wordmark.svg" />
+          
 
 
 <h2> Languages </h2>
