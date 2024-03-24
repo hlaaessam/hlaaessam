@@ -1,13 +1,16 @@
 - # Hi there, I'm Hla  <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-  
+
+<h2> Summary </h2>
+Computer Science graduate , eager to embark on a challenging journey as a Software Engineer. Equipped with practical experience and a strong foundation in software development, I am poised to contribute to innovative projects that fuse cutting-edge technology, with a commitment to continuous learning. 
 
 - 🎓Recent computer science graduate from HU - Cairo
 - 👨‍💻 I’m currently working on web development technologies like JavaScript etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
+</br>
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](hlaelgibaly22@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hla-essam)
@@ -41,5 +44,13 @@
 [![Android Studio Code](https://img.shields.io/badge/-android-samples-444444?style=flat&logo=androidstudio-code&logoColor=007ACC)](https://github.com/microsoft/android-samples)
 
 
-##### Fun fact: I once solved the world's oldest question with a single line of JavaScript
-<!-- wi*quL3fcV -->
+| [Show Resume](https://docs.google.com/document/d/1bUsSnYTt31sqZ2ClUb6h7SzYar3AQAghha0a9U6OwfE/edit?usp=sharing) |
+| :-------------------------------------: |
+
+
+<h2> Languages </h2>
+
+- Arabic
+- English 
+
+  
