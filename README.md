@@ -13,7 +13,8 @@ Computer Science graduate , eager to embark on a challenging journey as a Softwa
 </br>
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](hlaelgibaly22@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hla-essam) | [Show Resume](https://docs.google.com/document/d/1bUsSnYTt31sqZ2ClUb6h7SzYar3AQAghha0a9U6OwfE/edit?usp=sharing)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hla-essam) 
+
 
 
 ##### Languages And Tools
@@ -47,6 +48,10 @@ Android Studio Code
 <h2> Languages </h2>
 
 - Arabic
-- English 
+- English
+
+                                                  | [Show Resume](https://docs.google.com/document/d/1bUsSnYTt31sqZ2ClUb6h7SzYar3AQAghha0a9U6OwfE/edit?usp=sharing)|
+
+  
 
   
