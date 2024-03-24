@@ -12,10 +12,15 @@ Computer Science graduate , eager to embark on a challenging journey as a Softwa
 
 </br>
 <p align="center">
+
   <i>Let's connect.</i>
 
    [![Linkedin Badge](https://img.shields.io/badge/-anushkaverma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anushkaverma/)](https://www.linkedin.com/in/hla-essam) 
    [![Gmail Badge](https://img.shields.io/badge/-v.anushka786-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:v.anushka786@gmail.com)](hlaelgibaly22@gmail.com)
+  
+</p>
+   
+   
 
 
 
