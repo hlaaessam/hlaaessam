@@ -12,12 +12,9 @@ Computer Science graduate , eager to embark on a challenging journey as a Softwa
 -  I’m currently learning everything about Frontend and Backend technologies 
 -  Future Goals: Learn more technologies - Never stop creating new ideas.
 
+  [Show Resume](https://docs.google.com/document/d/1bUsSnYTt31sqZ2ClUb6h7SzYar3AQAghha0a9U6OwfE/edit?usp=sharing) |
+
    
-   
-
-
-
-
 <h2> Languages And Tools </h2>
 <div display="flex">
   <img  height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />          
@@ -43,11 +40,7 @@ Computer Science graduate , eager to embark on a challenging journey as a Softwa
 <br/>
 
 <h2> Languages </h2>
-
-- Arabic
-- English  
-
-| [Show Resume](https://docs.google.com/document/d/1bUsSnYTt31sqZ2ClUb6h7SzYar3AQAghha0a9U6OwfE/edit?usp=sharing) |
+Arabic , English  
 
 <p>
   <i>Let's connect.</i>
