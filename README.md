@@ -13,7 +13,8 @@ Computer Science graduate , eager to embark on a challenging journey as a Softwa
 </br>
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](hlaelgibaly22@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hla-essam)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hla-essam)| [Show Resume](https://docs.google.com/document/d/1bUsSnYTt31sqZ2ClUb6h7SzYar3AQAghha0a9U6OwfE/edit?usp=sharing) |
+| :-------------------------------------: |
 
 
 ##### Languages And Tools
@@ -41,11 +42,7 @@ Computer Science graduate , eager to embark on a challenging journey as a Softwa
 
 ##### Some of my favorite open source projects
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
-[![Android Studio Code](https://img.shields.io/badge/-android-samples-444444?style=flat&logo=androidstudio-code&logoColor=007ACC)](https://github.com/microsoft/android-samples)
-
-
-| [Show Resume](https://docs.google.com/document/d/1bUsSnYTt31sqZ2ClUb6h7SzYar3AQAghha0a9U6OwfE/edit?usp=sharing) |
-| :-------------------------------------: |
+[![Android Studio Code]
 
 
 <h2> Languages </h2>
