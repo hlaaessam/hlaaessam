@@ -11,13 +11,7 @@ Computer Science graduate , eager to embark on a challenging journey as a Softwa
 -  I’m currently working on web development technologies like JavaScript etc.
 -  I’m currently learning everything about Frontend and Backend technologies 
 -  Future Goals: Learn more technologies - Never stop creating new ideas.
-<p>
-  <i>Let's connect.</i>
 
- [![Linkedin Badge](https://img.shields.io/badge/-hlaaessam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hla-essam/)](https://www.linkedin.com/in/hla-essam/) 
- [![Gmail Badge](https://img.shields.io/badge/-hlaaessam-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hlaelgibaly22@gmail.com)](mailto:hlaelgibaly22@gmail.com)
-  
-</p>
    
    
 
@@ -51,10 +45,17 @@ Computer Science graduate , eager to embark on a challenging journey as a Softwa
 <h2> Languages </h2>
 
 - Arabic
-- English
-  
+- English  
 
 | [Show Resume](https://docs.google.com/document/d/1bUsSnYTt31sqZ2ClUb6h7SzYar3AQAghha0a9U6OwfE/edit?usp=sharing) |
+
+<p>
+  <i>Let's connect.</i>
+
+ [![Linkedin Badge](https://img.shields.io/badge/-hlaaessam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hla-essam/)](https://www.linkedin.com/in/hla-essam/) 
+ [![Gmail Badge](https://img.shields.io/badge/-hlaaessam-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hlaelgibaly22@gmail.com)](mailto:hlaelgibaly22@gmail.com)
+  
+</p>
 
   
 
