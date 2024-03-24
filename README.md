@@ -2,7 +2,16 @@
 
 ##### Hi, I'm Hla:
 
+
+- # Hi there, I'm Bilgehan  <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+  
+
 - 🎓Recent computer science graduate from HU - Cairo
+- 👨‍💻 I’m currently working on web development technologies like JavaScript etc.
+- 📚 I’m currently learning everything about Frontend and Backend technologies 😅
+- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](hlaelgibaly22@gmail.com)
