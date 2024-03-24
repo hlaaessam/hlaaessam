@@ -17,8 +17,7 @@ Computer Science graduate , eager to embark on a challenging journey as a Softwa
 
 
 
-##### Languages And Tools
-
+<h2> Languages And Tools </h2>
 <div display="flex">
   <img  height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />          
   <img  height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
@@ -40,7 +39,7 @@ Computer Science graduate , eager to embark on a challenging journey as a Softwa
 </div>
 <br/>
 
-##### Some of my favorite open source projects
+<h2>Some of my favorite open source projects</h2> 
 <div display="flex">
 <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />          
 <img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-plain-wordmark.svg" />
