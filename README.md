@@ -12,7 +12,7 @@ Computer Science graduate , eager to embark on a challenging journey as a Softwa
 -  I’m currently learning everything about Frontend and Backend technologies 
 -  Future Goals: Learn more technologies - Never stop creating new ideas.
 
-  [Show Resume](https://docs.google.com/document/d/1bUsSnYTt31sqZ2ClUb6h7SzYar3AQAghha0a9U6OwfE/edit?usp=sharing) |
+  |[Show Resume](https://docs.google.com/document/d/1bUsSnYTt31sqZ2ClUb6h7SzYar3AQAghha0a9U6OwfE/edit?usp=sharing) |
 
    
 <h2> Languages And Tools </h2>
@@ -38,9 +38,6 @@ Computer Science graduate , eager to embark on a challenging journey as a Softwa
   <img  height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
 </div>
 <br/>
-
-<h2> Languages </h2>
-Arabic , English  
 
 <p>
   <i>Let's connect.</i>
