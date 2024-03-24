@@ -32,12 +32,6 @@
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black&labelColor=black">
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white">
-  ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
-  ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
-  ![HTML](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html)
-  ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
-  ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 >
 </div>
 <br/>
