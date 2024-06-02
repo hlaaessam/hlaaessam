@@ -1,19 +1,19 @@
 
 <h1 align="center">Hi 👋, I'm Hla !</h1>
-<h3 align="center">Junior Software Engineer</h3>
+<h3 align="center">Frontend Developer</h3>
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 
 <h2> About me </h2>
-Computer Science graduate , eager to embark on a challenging journey as a Software Engineer. Equipped with practical experience and a strong foundation in software development, I am poised to contribute to innovative projects that fuse cutting-edge technology, with a commitment to continuous learning.<br>
+Computer Science graduate , eager to embark on a challenging journey as a Frontend Developer. Equipped with practical experience and a strong foundation in Web development, I am poised to contribute to innovative projects that fuse cutting-edge technology, with a commitment to continuous learning.<br>
 <br>
 
 -  I’m currently working on web development technologies like React etc.
 -  I’m currently learning everything about Frontend and Backend technologies 
 -  Future Goals: Learn more technologies - Never stop creating new ideas.
 
-  | [My Resume](https://docs.google.com/document/d/1bUsSnYTt31sqZ2ClUb6h7SzYar3AQAghha0a9U6OwfE/edit?usp=sharing) |
+  | [My Resume]([https://docs.google.com/document/d/1bUsSnYTt31sqZ2ClUb6h7SzYar3AQAghha0a9U6OwfE/edit?usp=sharing](https://drive.google.com/file/d/1qxpP8CGoKuqSIHQ7BQADVTQCK-wEEm1d/view?usp=sharing)) |
 
    
 <h2> Languages And Tools </h2>
