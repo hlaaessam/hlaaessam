@@ -13,7 +13,7 @@ Computer Science graduate , eager to embark on a challenging journey as a Fronte
 -  I’m currently learning everything about Frontend and Backend technologies 
 -  Future Goals: Learn more technologies - Never stop creating new ideas.
 
-  | [My Resume]([https://drive.google.com/file/d/1MzX1ciConJAZ4nDu9a7phjjAu0Ntdx-P/view?usp=sharing]) | https://drive.google.com/file/d/1MzX1ciConJAZ4nDu9a7phjjAu0Ntdx-P/view?usp=sharing
+  | [My Resume](https://drive.google.com/file/d/1MzX1ciConJAZ4nDu9a7phjjAu0Ntdx-P/view?usp=sharing) |
 
    
 <h2> Languages And Tools </h2>
