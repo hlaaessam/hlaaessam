@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Hla !</h1>
 <h3 align="center">Frontend Developer</h3>
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 
 <h2> About me </h2>
