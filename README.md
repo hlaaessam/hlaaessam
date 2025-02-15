@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hla Essam!</h1>
-<h3 align="center">Passionate Frontend Developer | React & Angular Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Hala Essam!</h1>
+<h3 align="center">Passionate Frontend Developer | React Enthusiast</h3>
 
 ---
 
