@@ -7,7 +7,7 @@
 
 I'm a Computer Science graduate with a strong foundation in web development and a passion for building interactive and user-friendly web applications. With hands-on experience in frontend technologies, I specialize in creating seamless and dynamic user experiences using HTML, CSS, JavaScript, and modern frameworks like React and Next.js.<br>
 
-- 🔭 I’m currently working on a **Task Management Dashboard** with multiple roles & efficiency tracking.
+- 🔭 I’m currently working on a New Projects with multiple roles & efficiency tracking.
 - 🌱 I’m currently expanding my expertise in **Next.js**, **Redux Toolkit**, and **advanced frontend architectures**.
 - 🎯 Future Goals: Keep learning new technologies and contribute to impactful projects.
 - 📫 How to reach me: [hlaelgibaly22@gmail.com](mailto:hlaelgibaly22@gmail.com)
