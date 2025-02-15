@@ -5,10 +5,10 @@
 
 <h2>🚀 About Me</h2>
 
-I'm a Computer Science graduate with a strong foundation in web development and a passion for building interactive and user-friendly web applications. With hands-on experience in frontend technologies, I specialize in creating seamless and dynamic user experiences using HTML, CSS, JavaScript, and modern frameworks like React and Angular.<br>
+I'm a Computer Science graduate with a strong foundation in web development and a passion for building interactive and user-friendly web applications. With hands-on experience in frontend technologies, I specialize in creating seamless and dynamic user experiences using HTML, CSS, JavaScript, and modern frameworks like React and Next.js.<br>
 
 - 🔭 I’m currently working on a **Task Management Dashboard** with multiple roles & efficiency tracking.
-- 🌱 I’m currently expanding my expertise in **Angular** and **advanced frontend architectures**.
+- 🌱 I’m currently expanding my expertise in **Next.js**, **Redux Toolkit**, and **advanced frontend architectures**.
 - 🎯 Future Goals: Keep learning new technologies and contribute to impactful projects.
 - 📫 How to reach me: [hlaelgibaly22@gmail.com](mailto:hlaelgibaly22@gmail.com)
 
@@ -19,20 +19,20 @@ I'm a Computer Science graduate with a strong foundation in web development and 
 <h2>🛠️ Languages & Tools</h2>
 
 <div align="center">
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" />
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 </div>
 
 ---
@@ -50,3 +50,4 @@ I'm a Computer Science graduate with a strong foundation in web development and 
 ---
 
 ⭐ **Always eager to learn and create something amazing!**
+
