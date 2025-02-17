@@ -12,7 +12,7 @@ I'm a Computer Science graduate with a strong foundation in web development and 
 - 🎯 Future Goals: Keep learning new technologies and contribute to impactful projects.
 - 📫 How to reach me: [hlaelgibaly22@gmail.com](mailto:hlaelgibaly22@gmail.com)
 
-📄 **[My Resume](https://drive.google.com/file/d/1MzX1ciConJAZ4nDu9a7phjjAu0Ntdx-P/view?usp=sharing)**
+📄 **[My Resume](https://drive.google.com/drive/folders/1Zlr2SfbfPSjpkmC-CZzm09z1f47iAUOF?usp=sharing)**
 
 ---
 
