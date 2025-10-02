@@ -31,25 +31,6 @@ Node.js • MongoDB •
 Git • GitHub • VS Code • Linux • Android Studio • Anaconda • Jupyter • MATLAB • Arduino  
 
 
-You said:
-<h1 align="center">Hi 👋, I'm Hala Essam!</h1>
-<h3 align="center">Passionate Frontend Developer | React | Next.Js Enthusiast</h3>
-
----
-
-<h2>🚀 About Me</h2>
-
-I'm a Computer Science graduate with a strong foundation in web development and a passion for building interactive and user-friendly web applications. With hands-on experience in frontend technologies, I specialize in creating seamless and dynamic user experiences using HTML, CSS, JavaScript, and modern frameworks like React and Next.js.<br>
-
-- 🔭 I’m currently working on a New Projects with multiple roles & efficiency tracking.
-- 🌱 I’m currently expanding my expertise in **Next.js**, **Redux Toolkit**, and **advanced frontend architectures**.
-- 🎯 Future Goals: Keep learning new technologies and contribute to impactful projects.
-- 📫 How to reach me: [hlaelgibaly22@gmail.com](mailto:hlaelgibaly22@gmail.com)
-
-📄 **[My Resume](https://drive.google.com/file/d/1NxxnkiEB3FyvsSh4Lqq8Tb5Kl2WdUg7B/view?usp=drive_link)**
-
----
-
 <h2>🛠️ Languages & Tools</h2>
 
 <div align="center">
