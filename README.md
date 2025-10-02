@@ -30,7 +30,6 @@ Node.js • MongoDB •
 **Tools & Others**  
 Git • GitHub • VS Code • Linux • Android Studio • Anaconda • Jupyter • MATLAB • Arduino  
 
-
 ---
 
 <h2>📬 Let’s Connect</h2>
