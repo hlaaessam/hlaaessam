@@ -12,7 +12,7 @@ I specialize in **React, Next.js, Context API, and Redux Toolkit** to deliver se
 - 🎯 Future Goals: Continue advancing as a **Full-Stack Developer**, mastering both frontend architectures and backend technologies to contribute to impactful projects.  
 - 📫 Reach me at: [hlaelgibaly22@gmail.com](mailto:hlaelgibaly22@gmail.com)  
 
-📄 **[View My Resume](https://drive.google.com/file/d/1NxxnkiEB3FyvsSh4Lqq8Tb5Kl2WdUg7B/view?usp=drive_link)**  
+📄 **[View My Resume](https://drive.google.com/file/d/1VcBqV0znomY0HVJQ6dxeuWvC3E4KwjBO/view?usp=drivesdk)**  
 
 ---
 
