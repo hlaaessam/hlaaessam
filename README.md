@@ -24,8 +24,8 @@ I specialize in **React, Next.js, Context API, and Redux Toolkit** to deliver se
 HTML5 • CSS3 • Sass • Bootstrap • JavaScript • TypeScript • jQuery • Regular Expressions  
 React • Next.js • Context API • Redux Toolkit • Tailwind CSS • Material Tailwind • MUI • PrimeReact • PrimeFlex • Chart.js • Formik • React Hook Form • Yup  
 
-**Backend & Database (Learning)**  
-Node.js • MongoDB • MySQL • Microsoft SQL Server • Azure SQL  
+**Backend(Learning)**  
+Node.js • MongoDB • 
 
 **Tools & Others**  
 Git • GitHub • VS Code • Linux • Android Studio • Anaconda • Jupyter • MATLAB • Arduino  
