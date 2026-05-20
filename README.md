@@ -15,7 +15,7 @@
 
 ## About Me
 
-Full-Stack Developer specializing in **React**, **Next.js**, and **Node.js**, with hands-on experience building scalable web applications and RESTful APIs. Currently contributing to enterprise-grade projects at **TWorld**, including a real-time fleet analytics dashboard serving 10,000+ global users and a multi-platform property management system.
+Full-Stack Developer specializing in **React**, **Next.js**, and **Node.js**, with hands-on experience building scalable web applications and RESTful APIs. Currently contributing to enterprise-grade projects at **Taha World**, including a real-time fleet analytics dashboard serving 10,000+ global users and a multi-platform property management system.
 
 I care about clean architecture, performance optimization, and building experiences that are both fast and intuitive. My background in **Medical Informatics** gives me an edge in data-driven, IoT-integrated, and healthcare-adjacent systems.
 
