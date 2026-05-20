@@ -1,48 +1,103 @@
-<h1 align="center">Hi 👋, I'm Hala Essam!</h1>
-<h3 align="center">Full-Stack Web Developer | React, Next.js & Angular | Node.js & MongoDB</h3>
+<div align="center">
+
+# Hala Essam
+
+### Full-Stack Developer · React · Next.js · Angular · Node.js
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hala-essam)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hlaaessam)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hlaelgibaly22@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1VcBqV0znomY0HVJQ6dxeuWvC3E4KwjBO/view?usp=drivesdk)
+
+</div>
 
 ---
 
-<h2>🚀 About Me</h2>
+## About Me
 
-I’m a **passionate and versatile Full-Stack Developer** with a strong foundation in building highly interactive, scalable, and responsive web applications. I specialize in crafting seamless user experiences across multiple frontend architectures and developing secure, robust backend systems.
+Full-Stack Developer specializing in **React**, **Next.js**, and **Node.js**, with hands-on experience building scalable web applications and RESTful APIs. Currently contributing to enterprise-grade projects at **TWorld**, including a real-time fleet analytics dashboard serving 10,000+ global users and a multi-platform property management system.
 
-- 💻 **Frontend Mastery:** Extensive experience building data-driven dashboards, e-commerce platforms, and web apps using **React (Next.js, Redux Toolkit)** and **Angular (v17+ with SSR)**.
-- ⚙️ **Backend Engineering:** Developing secure, optimized, and stateless RESTful APIs using **Node.js, Express.js, and MongoDB/Mongoose**, incorporating JWT authentication, role-based access control, and clean MVC structures.
-- 🌍 **Internationalization:** Experienced in implementing localization and translation services (such as English & Arabic switching support).
-- 🤝 **Eager to Innovate:** Open to collaboration on open-source projects, full-stack applications, and challenging development roles.
-- 📫 Reach me at: [hlaelgibaly22@gmail.com](mailto:hlaelgibaly22@gmail.com)  
-
-📄 **[View My Resume](https://drive.google.com/file/d/1VcBqV0znomY0HVJQ6dxeuWvC3E4KwjBO/view?usp=drivesdk)** ---
-
-<h2>🛠️ Tech Stack</h2>
-
-### 💻 Frontend
-**Frameworks & Libraries:** React • Next.js • Angular (v17+ with SSR) • Context API • Redux Toolkit • jQuery  
-**Languages & Core:** JavaScript (ES6+) • TypeScript • HTML5 • CSS3 • Sass • Regular Expressions  
-**UI & Styling:** Tailwind CSS • Material UI (MUI) • Bootstrap • Material Tailwind • PrimeReact • PrimeFlex  
-**Form Handling & Utilities:** Formik • React Hook Form • `@rxweb/reactive-form-validators` • Express-Validator • Yup • Chart.js • ngx-owl-carousel-o • ngx-translate
-
-### ⚙️ Backend & Databases
-Node.js • Express.js (v5) • RESTful APIs • MongoDB • Mongoose ODM • JWT Authentication • Password Hashing (Bcrypt) • Multer (File Uploads)
-
-### 🔧 Tools & Ecosystem
-Git • GitHub • VS Code • Linux • Windows • NPM / Yarn • Android Studio • Anaconda • Jupyter • MATLAB • Arduino
+I care about clean architecture, performance optimization, and building experiences that are both fast and intuitive. My background in **Medical Informatics** gives me an edge in data-driven, IoT-integrated, and healthcare-adjacent systems.
 
 ---
 
-<h2>📬 Let’s Connect</h2>
-<p align="center">
-  <a href="https://www.linkedin.com/in/hla-essam/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:hlaelgibaly22@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
+## 🛠 Tech Stack
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
+
+### Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+### Tools & Ecosystem
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
-<p align="center">
-  <b>Committed to creating clean architectures, smooth user experiences, and always eager to learn, collaborate, and innovate.</b>
-</p>
+## 💼 Professional Experience
+
+### Frontend Developer — [TWorld](https://tworld.io) *(Mar 2025 – Present)*
+
+#### Angelicoussis Group · Athens, Greece *(Remote)*
+> Leading global shipping company operating one of the world's largest privately-owned fleets
+
+- Built a **real-time fleet analytics dashboard** monitoring performance across 100+ vessels
+- Reduced manual reporting time by **40%** through custom reporting tools for vessel captains
+- Optimized UI/UX for **10,000+ global users**, cutting page load times by **35%** and improving task completion efficiency by **20%**
+
+#### Nahla — Property Management Platform
+> Multi-platform listing system across Airbnb, Booking.com, and Google Travel
+
+- Implemented **multilingual support** and route optimization, boosting user engagement by **25%**
+- Streamlined booking workflows, reducing host task completion time by **30%**
+- Integrated **multi-platform account synchronization**, minimizing cross-platform data inconsistencies
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|---|---|---|
+| **E-Commerce App** *(May 2026)* | Responsive platform for 2,000+ monthly users; improved checkout speed by 25%, reduced cart abandonment by 15% | JavaScript, SASS, Bootstrap, Angular |
+| **Course Management API** *(Dec 2025)* | Secure RESTful API for 500+ users with JWT auth; reduced API errors by 30% | Node.js, Express, MongoDB, JWT, Mongoose |
+| **Task Management System** *(Oct 2024)* | Real-time dashboard for 50+ team users; increased task tracking efficiency by 40% | React, Tailwind, Redux Toolkit, Node.js, MongoDB |
+| **AI Healthcare Monitoring — IoT** *(Jun 2023)* | IoT app monitoring 100+ patients; enabled remote consultations, reducing hospital visits by 15% | Java, Python, C, MySQL, PHP, Arduino |
+
+---
+
+## 🎓 Education
+
+**BSc in Medical Informatics** · Helwan University, Cairo *(2019 – 2023)*
+Faculty of Computers and Artificial Intelligence · **GPA: 3.51 / 4.0**
+
+---
+
+## 🏆 Awards & Recognition
+
+- 🥈 **Dell Technologies' Envision the Future Competition (2023)** — Semifinalist out of 283 global project teams
+- 🏅 **Egypt IoT & AI Challenge (2023)** — Participated with graduation project, recognized for innovation and technical excellence
+
+---
+
+<div align="center">
+
+*Clean architecture. Smooth experiences. Always learning.*
+
+</div>
