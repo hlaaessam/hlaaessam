@@ -49,53 +49,6 @@ I care about clean architecture, performance optimization, and building experien
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
----
-
-## 💼 Professional Experience
-
-### Frontend Developer — [TWorld](https://tworld.io) *(Mar 2025 – Present)*
-
-#### Angelicoussis Group · Athens, Greece *(Remote)*
-> Leading global shipping company operating one of the world's largest privately-owned fleets
-
-- Built a **real-time fleet analytics dashboard** monitoring performance across 100+ vessels
-- Reduced manual reporting time by **40%** through custom reporting tools for vessel captains
-- Optimized UI/UX for **10,000+ global users**, cutting page load times by **35%** and improving task completion efficiency by **20%**
-
-#### Nahla — Property Management Platform
-> Multi-platform listing system across Airbnb, Booking.com, and Google Travel
-
-- Implemented **multilingual support** and route optimization, boosting user engagement by **25%**
-- Streamlined booking workflows, reducing host task completion time by **30%**
-- Integrated **multi-platform account synchronization**, minimizing cross-platform data inconsistencies
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-|---|---|---|
-| **E-Commerce App** *(May 2026)* | Responsive platform for 2,000+ monthly users; improved checkout speed by 25%, reduced cart abandonment by 15% | JavaScript, SASS, Bootstrap, Angular |
-| **Course Management API** *(Dec 2025)* | Secure RESTful API for 500+ users with JWT auth; reduced API errors by 30% | Node.js, Express, MongoDB, JWT, Mongoose |
-| **Task Management System** *(Oct 2024)* | Real-time dashboard for 50+ team users; increased task tracking efficiency by 40% | React, Tailwind, Redux Toolkit, Node.js, MongoDB |
-| **AI Healthcare Monitoring — IoT** *(Jun 2023)* | IoT app monitoring 100+ patients; enabled remote consultations, reducing hospital visits by 15% | Java, Python, C, MySQL, PHP, Arduino |
-
----
-
-## 🎓 Education
-
-**BSc in Medical Informatics** · Helwan University, Cairo *(2019 – 2023)*
-Faculty of Computers and Artificial Intelligence · **GPA: 3.51 / 4.0**
-
----
-
-## 🏆 Awards & Recognition
-
-- 🥈 **Dell Technologies' Envision the Future Competition (2023)** — Semifinalist out of 283 global project teams
-- 🏅 **Egypt IoT & AI Challenge (2023)** — Participated with graduation project, recognized for innovation and technical excellence
-
----
-
 <div align="center">
 
 *Clean architecture. Smooth experiences. Always learning.*
