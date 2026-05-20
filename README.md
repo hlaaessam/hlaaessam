@@ -1,34 +1,33 @@
 <h1 align="center">Hi 👋, I'm Hala Essam!</h1>
-<h3 align="center">React & Next.js Front-End Developer | JavaScript | TypeScript | Full-Stack in Progress</h3>
+<h3 align="center">Full-Stack Web Developer | React, Next.js & Angular | Node.js & MongoDB</h3>
 
 ---
 
 <h2>🚀 About Me</h2>
 
-I’m a **Passionate React Front-End Developer** with hands-on experience in building interactive, scalable, and user-friendly web applications.  
-I specialize in **React, Next.js, Context API, and Redux Toolkit** to deliver seamless and dynamic user experiences.  
+I’m a **passionate and versatile Full-Stack Developer** with a strong foundation in building highly interactive, scalable, and responsive web applications. I specialize in crafting seamless user experiences across multiple frontend architectures and developing secure, robust backend systems.
 
-- 🌱 Actively expanding my expertise in modern frontend development while strengthening my backend skills with **Node.js** and **MongoDB** to become a well-rounded full-stack developer.  
-- 🎯 Future Goals: Continue advancing as a **Full-Stack Developer**, mastering both frontend architectures and backend technologies to contribute to impactful projects.  
+- 💻 **Frontend Mastery:** Extensive experience building data-driven dashboards, e-commerce platforms, and web apps using **React (Next.js, Redux Toolkit)** and **Angular (v17+ with SSR)**.
+- ⚙️ **Backend Engineering:** Developing secure, optimized, and stateless RESTful APIs using **Node.js, Express.js, and MongoDB/Mongoose**, incorporating JWT authentication, role-based access control, and clean MVC structures.
+- 🌍 **Internationalization:** Experienced in implementing localization and translation services (such as English & Arabic switching support).
+- 🤝 **Eager to Innovate:** Open to collaboration on open-source projects, full-stack applications, and challenging development roles.
 - 📫 Reach me at: [hlaelgibaly22@gmail.com](mailto:hlaelgibaly22@gmail.com)  
 
-📄 **[View My Resume](https://drive.google.com/file/d/1VcBqV0znomY0HVJQ6dxeuWvC3E4KwjBO/view?usp=drivesdk)**  
-
----
+📄 **[View My Resume](https://drive.google.com/file/d/1VcBqV0znomY0HVJQ6dxeuWvC3E4KwjBO/view?usp=drivesdk)** ---
 
 <h2>🛠️ Tech Stack</h2>
 
-<div align="center">
+### 💻 Frontend
+**Frameworks & Libraries:** React • Next.js • Angular (v17+ with SSR) • Context API • Redux Toolkit • jQuery  
+**Languages & Core:** JavaScript (ES6+) • TypeScript • HTML5 • CSS3 • Sass • Regular Expressions  
+**UI & Styling:** Tailwind CSS • Material UI (MUI) • Bootstrap • Material Tailwind • PrimeReact • PrimeFlex  
+**Form Handling & Utilities:** Formik • React Hook Form • `@rxweb/reactive-form-validators` • Express-Validator • Yup • Chart.js • ngx-owl-carousel-o • ngx-translate
 
-**Frontend**  
-HTML5 • CSS3 • Sass • Bootstrap • JavaScript • TypeScript • jQuery • Regular Expressions  
-React • Next.js • Context API • Redux Toolkit • Tailwind CSS • Material Tailwind • MUI • PrimeReact • PrimeFlex • Chart.js • Formik • React Hook Form • Yup  
+### ⚙️ Backend & Databases
+Node.js • Express.js (v5) • RESTful APIs • MongoDB • Mongoose ODM • JWT Authentication • Password Hashing (Bcrypt) • Multer (File Uploads)
 
-**Backend(Learning)**  
-Node.js • MongoDB • 
-
-**Tools & Others**  
-Git • GitHub • VS Code • Linux • Android Studio • Anaconda • Jupyter • MATLAB • Arduino  
+### 🔧 Tools & Ecosystem
+Git • GitHub • VS Code • Linux • Windows • NPM / Yarn • Android Studio • Anaconda • Jupyter • MATLAB • Arduino
 
 ---
 
@@ -44,4 +43,6 @@ Git • GitHub • VS Code • Linux • Android Studio • Anaconda • Jupyter
 
 ---
 
-⭐ **Committed to creating seamless user experiences, staying updated with modern tech, and always eager to learn, collaborate, and innovate.**
+<p align="center">
+  <b>Committed to creating clean architectures, smooth user experiences, and always eager to learn, collaborate, and innovate.</b>
+</p>
